@@ -1,6 +1,6 @@
 # 2º Trimestre
 ## Multimedia / Android
-###### Profesor: José 
+###### Profesor: José Carlos Moreno
 ###### Alumno: José Manuel Martínez Palacios
 ### MartinezPalaciosM01
 
