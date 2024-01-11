@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/fragment_Uno">
+
+    <fragment
+        android:id="@+id/fragment_Uno"
+        android:name="com.vedruna.martinezpalaciose01.Fragment_Uno"
+        android:label="fragment__uno"
+        tools:layout="@layout/fragment__uno" >
+        <action
+            android:id="@+id/action_fragment_Uno_to_fragment_Dos"
+            app:destination="@id/fragment_Dos" />
+        <action
+            android:id="@+id/action_fragment_Uno_to_fragment_Tres"
+            app:destination="@id/fragment_Tres" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragment_Dos"
+        android:name="com.vedruna.martinezpalaciose01.Fragment_Dos"
+        android:label="fragment__dos"
+        tools:layout="@layout/fragment__dos" />
+    <fragment
+        android:id="@+id/fragment_Tres"
+        android:name="com.vedruna.martinezpalaciose01.Fragment_Tres"
+        android:label="fragment__tres"
+        tools:layout="@layout/fragment__tres" />
+</navigation>
