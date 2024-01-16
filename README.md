@@ -16,7 +16,6 @@ en tu criterio queda elegir el o los tipos de layouts que utilizarás. Mediante 
   - La primera versión de la app cuenta con un texto inicial informativo de la app, un numero centrado, 3 botones de función (mas adelante contendran las funciones correspondientes) y la firma del desarrollador al final de la pantalla.
 
 - Imagenes:
-Captura de pantalla de la aplicacion desde el telefono personal.
 
 ![contador](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/49e8ee70-8357-4cb6-b62a-cf8875fa35a1)
 
