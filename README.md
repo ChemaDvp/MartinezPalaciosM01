@@ -18,6 +18,4 @@ en tu criterio queda elegir el o los tipos de layouts que utilizarás. Mediante 
 - Imagenes:
 Captura de pantalla de la aplicacion desde el telefono personal.
 
-![imagen 1](https://i.imgur.com/k0BECYf.jpg)
-
-
+![contador](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/49e8ee70-8357-4cb6-b62a-cf8875fa35a1)
