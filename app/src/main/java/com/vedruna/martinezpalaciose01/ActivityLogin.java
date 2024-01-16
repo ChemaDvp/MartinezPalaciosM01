@@ -36,7 +36,7 @@ public class ActivityLogin extends AppCompatActivity {
             message.setText("Usuario y contraseña correctos");
 
             // Intent para pasar a la segunda ventana
-            Intent intent = new Intent(this, MainActivity.class);
+            Intent intent = new Intent(this, FrameLayaout.class);
 
             // Iniciar la segunda ventana y finalizar la primera
             startActivity(intent);

@@ -24,13 +24,14 @@ public class FrameLayaout extends AppCompatActivity {
 
         bottomNavigationView.setOnItemSelectedListener(item -> {
 
-            if (item.getItemId() == R.id.fragment_Uno) {
+            if (item.getItemId() == R.id.navigation_home) {
                 navController.navigate(R.id.fragment_Uno);
-            } else if (item.getItemId() == R.id.fragment_Dos) {
+            } else if (item.getItemId() == R.id.navigation_dashboard) {
                 navController.navigate(R.id.fragment_Dos);
+            } else if (item.getItemId() == R.id.navigation_notifications) {
+                navController.navigate(R.id.fragment_Tres);
             }
             return true;
         });
-
     }
 }
