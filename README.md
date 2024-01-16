@@ -73,6 +73,7 @@ En este ejercicio aprenderemos a movernos por diferentes fragments. Usaremos un 
   - EXTRA: (Personalizar los iconos por defecto).
     - Paso 1: Click izquierdo en el icono por defecto que aparece en el la ventana de code el (BottonNavigation).
       - Aparecerá una ventana igual que la de la imagen siguiente.
+ 
         
     - Paso 2: Click en "browse".
       ![icono1](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/13a13f81-5441-403e-9308-a66f153d47ca)
