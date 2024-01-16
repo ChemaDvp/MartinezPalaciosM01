@@ -85,6 +85,7 @@ En este ejercicio aprenderemos a movernos por diferentes fragments. Usaremos un 
       ![icono3](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/dc4aa566-c84b-4c95-b8c4-c96747abed53)
 
     - Paso 5: Elegir nuevo icono.
+      
       ![icono4](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/1a0d0cf8-c1f3-454d-9d7c-78c722d84a06)
 
 
