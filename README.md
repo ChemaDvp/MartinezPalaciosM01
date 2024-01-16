@@ -59,8 +59,10 @@ En este ejercicio aprenderemos a movernos por diferentes fragments. Usaremos un 
    
   - Parte 3:
     - Creacion del BottonNavitagionView. Pasos: res -> New -> Android Resource Directory -> Resource type -> menu -> aceptar.
-      - Este archivo contiene los botones por los que cambiaremos de fragments a fragments. En el BottonNavigation deberás hacer referencia a este menú. (siguiente código).
+      - Este archivo contiene los botones por los que cambiaremos de fragments a fragments.
         ![BottonNAvigationMenu](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/128438ef-fcd9-4126-8f54-0262132d625a)
+      - En el BottonNavigation deberás hacer referencia a este menú. (siguiente código).        
+        ![menu](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/e7c97c31-8b4d-49ce-87b7-7a07de1e4bab)
 
   - Parte 4:
     - En la Activity principal, deberás obtener la referencia al BottonNavigationView y configurar un OnNavigationItemSelectedListener para manejar los eventos de selección de los elementos: (siguiente código).
