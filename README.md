@@ -70,7 +70,21 @@ En este ejercicio aprenderemos a movernos por diferentes fragments. Usaremos un 
     - En la Activity principal, deberás obtener la referencia al BottonNavigationView y configurar un OnNavigationItemSelectedListener para manejar los eventos de selección de los elementos: (siguiente código).
       ![logicaCambioFragments](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/39f870e8-3dda-4450-8a12-5dc12a0a006b)
 
-  - Parte 5:
+  - EXTRA: (Personalizar los iconos por defecto).
+    - Paso 1: Click izquierdo en el icono por defecto que aparece en el la ventana de code el (BottonNavigation).
+    - Paso 2: Click en "browse".
+      ![icono1](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/13a13f81-5441-403e-9308-a66f153d47ca)
+
+    - Paso 3: Click en el simbolo +.
+      ![icono2](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/5d2ba726-471d-46bc-94e4-e6573b9f2b2f)
+
+    - Paso 4: Click en la opción "Clip art".
+      ![icono3](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/dc4aa566-c84b-4c95-b8c4-c96747abed53)
+
+    - Paso 5: Elegir nuevo icono.
+      ![icono4](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/1a0d0cf8-c1f3-454d-9d7c-78c722d84a06)
+
+
 
 
 
