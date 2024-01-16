@@ -26,14 +26,14 @@ Crea la segunda pantalla en el mismo proyecto(investiga como). Deberás realizar
 
 - Aplicación:
 La ventana de login contiene:
-- Parte 1:
-  - Texto imformativo encabezando la ventana.
-- Parte 2:
-  - Apartados (nombre y contraseña) usando un tipo de elemento llamado (Multiline Text).
-- Parte 3:
-  - Un elemento (button).
-- Parte 4:
-  -  Mensaje de login correcto/ incorrecto, que por defecto estará vacío.
+  - Parte 1:
+    - Texto imformativo encabezando la ventana.
+  - Parte 2:
+    - Apartados (nombre y contraseña) usando un tipo de elemento llamado (Multiline Text).
+  - Parte 3:
+    - Un elemento (button).
+  - Parte 4:
+    -  Mensaje de login correcto/ incorrecto, que por defecto estará vacío.
 
 - Imagenes:
   
