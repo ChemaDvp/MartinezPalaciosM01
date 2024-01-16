@@ -55,8 +55,9 @@ En este ejercicio aprenderemos a movernos por diferentes fragments. Usaremos un 
         ![navGraph](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/f02dc667-fd84-4bec-9c59-190fa41e9349)
         ![navGraph2](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/a88a7047-2cc7-481c-9203-bd5bc3ce0034)
 
-    - Dentro del archivo creado, veremos una pestaña llamada "design", la abriremos e iremos creando los fragments desde el icono del smartphone con el simbolo del +.
-   
+    - Dentro del archivo creado, veremos una pestaña llamada "design", la abriremos e iremos creando los fragments desde el icono del smartphone con el simbolo del +. Deberá quedar algo parecido a la siguiente imagen: (los fragments dos y tres, estarán enlazados al fragments uno).
+       ![fragments](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/d4c546c7-5209-4348-bd21-e11e997f90a0)
+
   - Parte 3:
     - Creacion del BottonNavitagionView. Pasos: res -> New -> Android Resource Directory -> Resource type -> menu -> aceptar.
       - Este archivo contiene los botones por los que cambiaremos de fragments a fragments.
