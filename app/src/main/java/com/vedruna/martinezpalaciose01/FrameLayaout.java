@@ -28,6 +28,8 @@ public class FrameLayaout extends AppCompatActivity {
                 navController.navigate(R.id.fragment_Uno);
             } else if (item.getItemId() == R.id.navigation_dashboard) {
                 navController.navigate(R.id.fragment_Dos);
+            } else if (item.getItemId() == R.id.navigation_api) {
+                navController.navigate(R.id.fragmentapi);
             } else if (item.getItemId() == R.id.navigation_notifications) {
                 navController.navigate(R.id.fragment_Tres);
             }

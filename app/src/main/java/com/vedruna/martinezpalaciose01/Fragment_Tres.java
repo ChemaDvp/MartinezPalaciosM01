@@ -23,4 +23,9 @@ public class Fragment_Tres extends Fragment {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment__tres, container, false);
     }
+
+    public void onClick(View v) {
+        getActivity().finish();
+    }
+
 }

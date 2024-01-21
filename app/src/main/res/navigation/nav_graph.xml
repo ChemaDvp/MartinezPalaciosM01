@@ -16,6 +16,9 @@
         <action
             android:id="@+id/action_fragment_Uno_to_fragment_Tres"
             app:destination="@id/fragment_Tres" />
+        <action
+            android:id="@+id/action_fragment_Uno_to_fragmentAPI"
+            app:destination="@id/fragmentapi" />
     </fragment>
     <fragment
         android:id="@+id/fragment_Dos"
@@ -27,4 +30,9 @@
         android:name="com.vedruna.martinezpalaciose01.Fragment_Tres"
         android:label="fragment_Tres"
         tools:layout="@layout/fragment__tres" />
+    <fragment
+        android:id="@+id/fragmentapi"
+        android:name="com.vedruna.martinezpalaciose01.fragment_api"
+        android:label="fragment_a_p_i"
+        tools:layout="@layout/fragment_a_p_i" />
 </navigation>
