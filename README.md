@@ -98,14 +98,17 @@ Añade un Fragment mas que se llame API y sigue el tutorial (para la parte del c
 - Pasos para añadir un nuevo fragment:
   - Paso 1:
     - Añadimos el elemento en el botton_navigation_menu:
+      
       ![fragment2](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/4316506d-dab4-424e-93e7-5b0965523e72)
 
   - Paso 2:
     - Lo añadimos en el archivo llamado "nav_graph":
+      
       ![fragment3](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/22b416fb-3ab1-470b-b9f5-19d477af2894)
 
   - Paso 3:
     - Editamos el código, para que podamos movernos entre los diferentes fragments:
+      
       ![fragment7](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/822c1061-25c9-43cf-83a5-c064b48519a5)
 
   
