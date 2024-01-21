@@ -23,24 +23,19 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class fragment_api extends Fragment {
-
     private List<Product> products;
     private CRUDinterfaces crudInterface;
 
     public void apiFragment() {
 
     }
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_a_p_i, container, false);
-        // Add your UI-related code here if needed
-        fetchData(); // Call the method to trigger the network request
+        fetchData();
         return view;
     }
-
-    // Add this method to trigger the network request
     private void fetchData() {
         Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl(Constant.BASE_URL)
@@ -49,7 +44,6 @@ public class fragment_api extends Fragment {
         crudInterface = retrofit.create(CRUDinterfaces.class);
         Call<List<Product>> call = crudInterface.getALL();
         call.enqueue(new Callback<List<Product>>() {
-
             @Override
             public void onResponse(Call<List<Product>> call, Response<List<Product>> response) {
                 if (!response.isSuccessful()) {
@@ -61,7 +55,6 @@ public class fragment_api extends Fragment {
                     products.forEach(p -> Log.i("api  ", p.toString()));
                 }
             }
-
             @Override
             public void onFailure(Call<List<Product>> call, Throwable t) {
                 Log.e("Throw err: ", t.getMessage());
