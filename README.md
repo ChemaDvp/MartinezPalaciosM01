@@ -89,7 +89,40 @@ En este ejercicio aprenderemos a movernos por diferentes fragments. Usaremos un 
       ![icono4](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/1a0d0cf8-c1f3-454d-9d7c-78c722d84a06)
 
 
+### EJERCICIO - 04
+- Enunciado:
+Añade un Fragment mas que se llame API y sigue el tutorial (para la parte del consumo de la API) proporcionado para consumir un API con android(en esta entrega no tendrás que reflejar los resultado en la interfaz gráfica, solo en el log). Por otro lado crea un microservicio con una sola entidad.
 
+#### PARTE 1:
+
+- Pasos para añadir un nuevo fragment:
+  - Paso 1:
+    - Añadimos el elemento en el botton_navigation_menu:
+      ![fragment2](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/4316506d-dab4-424e-93e7-5b0965523e72)
+
+  - Paso 2:
+    - Lo añadimos en el archivo llamado "nav_graph":
+      ![fragment3](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/22b416fb-3ab1-470b-b9f5-19d477af2894)
+
+  - Paso 3:
+    - Editamos el código, para que podamos movernos entre los diferentes fragments:
+      ![fragment7](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/822c1061-25c9-43cf-83a5-c064b48519a5)
+
+  
+#### PARTE 2:
+
+- Pasos para consumir la API y verla en consola:
+  - Paso 1:
+    - Creación de los packages y clases:
+      ![fragment5](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/d8fba4f3-12d6-4015-9f7b-41beeb4c8f94)
+
+  - Paso 2:
+    - Lógica del fragment de la API:
+      ![fragment6](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/47e8add0-4bb1-4c9b-89ec-b161490bd38f)
+
+  - Paso 3:
+    - Edicion del Manifest:
+      ![fragment4](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/ad5c79c2-1703-4872-a54b-06b1bdafdb42)
 
 
 
