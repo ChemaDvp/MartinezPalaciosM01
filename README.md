@@ -93,6 +93,19 @@ En este ejercicio aprenderemos a movernos por diferentes fragments. Usaremos un 
 - Enunciado:
 Añade un Fragment mas que se llame API y sigue el tutorial (para la parte del consumo de la API) proporcionado para consumir un API con android(en esta entrega no tendrás que reflejar los resultado en la interfaz gráfica, solo en el log). Por otro lado crea un microservicio con una sola entidad.
 
+#### Requisitos:
+- Dependencias:
+    - Añadimos las dependencias necesarias:
+      
+      ![dependencias](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/1d3c226d-5fae-4897-af33-6d5bc5177094)
+
+- Interfaz CRUDinterfaces:
+    - Añadimos las operaciones CRUD que queramos, en este ejemplo solo tenemos (getALL).
+- Clase "Product":
+    - Tiene que tener los atributos, (ID, NAME y PRICE) y un metodo (toString).
+- Clase Constant:
+    - Atributo para almacenar la URL.
+
 #### PARTE 1:
 
 - Pasos para añadir un nuevo fragment:
