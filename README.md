@@ -114,14 +114,17 @@ Añade un Fragment mas que se llame API y sigue el tutorial (para la parte del c
 - Pasos para consumir la API y verla en consola:
   - Paso 1:
     - Creación de los packages y clases:
+      
       ![fragment5](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/d8fba4f3-12d6-4015-9f7b-41beeb4c8f94)
 
   - Paso 2:
     - Lógica del fragment de la API:
+      
       ![fragment6](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/47e8add0-4bb1-4c9b-89ec-b161490bd38f)
 
   - Paso 3:
     - Edicion del Manifest:
+      
       ![fragment4](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/ad5c79c2-1703-4872-a54b-06b1bdafdb42)
 
 
