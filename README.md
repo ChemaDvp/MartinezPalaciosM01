@@ -131,6 +131,21 @@ Añade un Fragment mas que se llame API y sigue el tutorial (para la parte del c
       ![fragment4](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/ad5c79c2-1703-4872-a54b-06b1bdafdb42)
 
 
+  - Paso 4:
+    - Comprobación del LOG por consola en Android:
+      
+      ![logAPI](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/d7c0837a-8792-41b6-9014-12d95393fc6b)
+
+
+  - Paso 5:
+    - Fragment visto en la APP:
+      
+      ![capturaAPP](https://github.com/ChemaDvp/MartinezPalaciosM01/assets/115820368/0559b949-6931-4b29-8729-e8c67200a99f)
+
+
+
+
+
 
 
 
